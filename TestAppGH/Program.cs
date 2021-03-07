@@ -11,6 +11,7 @@ namespace TestAppGH
         static void Main(string[] args)
         {
             Console.WriteLine("Suha krpa na dnu mora! :-)");
+            Console.WriteLine("Celavi se vuku za kose. ");
             Console.ReadLine();
         }
     }
