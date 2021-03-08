@@ -13,6 +13,8 @@ namespace TestAppGH
             Console.WriteLine("Suha krpa na dnu mora! :-)");
             Console.WriteLine("Celavi se vuku za kose. ");
             Console.WriteLine("Promjena iz browsera. ");
+            Console.WriteLine("vs nova verzija. ");
+
             Console.ReadLine();
         }
     }
